@@ -1,3 +1,4 @@
 this is file 2 
 changes after commit
 add another marketing message section
+add  foother notes
